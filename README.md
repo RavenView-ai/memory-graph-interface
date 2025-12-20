@@ -1,5 +1,7 @@
 # Memory Graph Interface
 
+Note, this is somewhat superceded by [Knowledge Graph](https://github.com/aaronsb/knowledge-graph-system) - I hope you take a chance to check it out!
+
 A 3D visualization interface for exploring and interacting with memory graphs created by the [memory-graph MCP](https://github.com/aaronsb/memory-graph).
 
 ![Memory Graph Visualizer](docs/screenshot-nodes.png)
